@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-description: Details about privaci policy
+description: Details about privacy policy
 ---
 
 **Privacy Policy**
